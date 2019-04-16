@@ -9,6 +9,7 @@ __How to use__
 3. fill in the details
 
 __Rich Presence__
+
 ![rp](https://cdn.discordapp.com/attachments/560317461703163904/567735398491488267/unknown.png)
 | Label          | Location in Rich presence                              | Example            |
 |----------------|--------------------------------------------------------|--------------------|
@@ -22,6 +23,7 @@ __Rich Presence__
 | Show Time      | the time elapsed(at the bottom)                        | checkbox           |
 
 __Application Image__
+
 ![app](https://cdn.discordapp.com/attachments/560317461703163904/567737632323403832/unknown.png)
 
 
