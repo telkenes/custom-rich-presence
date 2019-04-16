@@ -4,7 +4,7 @@ Custom Rich Presence
 Custom Rich Presence is a desktop app whichs allows you to have a custom rich presence in discord.
 
 __How to use__
-1. download the 
+1. download the [application](https://github.com/telkenes/custom-rich-presence/releases/)
 2. open the application
 3. fill in the details
 
