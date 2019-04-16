@@ -11,6 +11,7 @@ __How to use__
 __Rich Presence__
 
 ![rp](https://cdn.discordapp.com/attachments/560317461703163904/567735398491488267/unknown.png)
+
 | Label          | Location in Rich presence                              | Example            |
 |----------------|--------------------------------------------------------|--------------------|
 | Application ID | No Where                                               | 567733509922226176 |
